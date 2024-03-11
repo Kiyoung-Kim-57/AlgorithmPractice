@@ -54,9 +54,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		604367A02B9ECB2700682945 /* BronzeSilver */ = {
+			isa = PBXGroup;
+			children = (
+				6043679E2B9ECAD800682945 /* backjoon1018.swift */,
+				605F60372B99B98200160C90 /* backjoon4153.swift */,
+				605F60352B99AC1D00160C90 /* backjoon11050.swift */,
+				6083F0662B99898A000AA998 /* backjoon1978.swift */,
+				6083F0632B998586000AA998 /* backjoon1181.swift */,
+				60CEC66B2B9825DC00FEC50A /* backjoon1032.swift */,
+				6083F0682B998BF7000AA998 /* backjoon2751.swift */,
+				605F60332B9990C700160C90 /* backjoon2609.swift */,
+			);
+			path = BronzeSilver;
+			sourceTree = "<group>";
+		};
 		60620D112B956134004013E4 = {
 			isa = PBXGroup;
 			children = (
+				604367A02B9ECB2700682945 /* BronzeSilver */,
 				60620D1C2B956134004013E4 /* AlgorithmPrac */,
 				60620D1B2B956134004013E4 /* Products */,
 			);
@@ -73,14 +89,6 @@
 		60620D1C2B956134004013E4 /* AlgorithmPrac */ = {
 			isa = PBXGroup;
 			children = (
-				6043679E2B9ECAD800682945 /* backjoon1018.swift */,
-				605F60372B99B98200160C90 /* backjoon4153.swift */,
-				605F60352B99AC1D00160C90 /* backjoon11050.swift */,
-				6083F0662B99898A000AA998 /* backjoon1978.swift */,
-				6083F0632B998586000AA998 /* backjoon1181.swift */,
-				60CEC66B2B9825DC00FEC50A /* backjoon1032.swift */,
-				6083F0682B998BF7000AA998 /* backjoon2751.swift */,
-				605F60332B9990C700160C90 /* backjoon2609.swift */,
 				60620D1D2B956134004013E4 /* main.swift */,
 			);
 			path = AlgorithmPrac;

@@ -7,13 +7,17 @@
 
 import Foundation
 
-let n = Int(readLine()!)!
-var numbers: [Int] = []
-for i in 0..<n {
-    let input = Int(readLine()!)!
-    numbers.append(input)
-}
-numbers.sort()
-for number in numbers {
-    print(number)
+func backjoon2751() {
+    
+    let n = Int(readLine()!)!
+    var numbers: [Int] = []
+    for i in 0..<n {
+        let input = Int(readLine()!)!
+        numbers.append(input)
+    }
+    numbers.sort()
+    for number in numbers {
+        print(number)
+    }
+    
 }

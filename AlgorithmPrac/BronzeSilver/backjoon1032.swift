@@ -7,30 +7,34 @@
 
 import Foundation
 
-
-var resultArr: [Character] = []
-let count = Int(readLine()!)!
-
-for i in 1...count {
-    var input = readLine()!
+func backjoon1032() {
     
-    if resultArr.isEmpty {
-        resultArr = Array(input)
-    } else {
-        var tmp = Array(input)
+    
+    var resultArr: [Character] = []
+    let count = Int(readLine()!)!
+    
+    for i in 1...count {
+        var input = readLine()!
         
-        for i in 0..<tmp.count {
-            if resultArr[i] != tmp[i] {
-                resultArr[i] = "?"
-            } else {
-                continue
+        if resultArr.isEmpty {
+            resultArr = Array(input)
+        } else {
+            var tmp = Array(input)
+            
+            for i in 0..<tmp.count {
+                if resultArr[i] != tmp[i] {
+                    resultArr[i] = "?"
+                } else {
+                    continue
+                }
             }
+            
         }
-        
     }
+    
+    print(String(resultArr))
+    
 }
-
-print(String(resultArr))
 
 
 

@@ -34,6 +34,7 @@
 		6043679E2B9ECAD800682945 /* backjoon1018.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backjoon1018.swift; sourceTree = "<group>"; };
 		604367A12B9ED01100682945 /* backjoon11650.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backjoon11650.swift; sourceTree = "<group>"; };
 		604367A32B9EDA7A00682945 /* backjoon10828.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backjoon10828.swift; sourceTree = "<group>"; };
+		604367A42B9EEA8600682945 /* backjoon1920.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backjoon1920.swift; sourceTree = "<group>"; };
 		605F60332B9990C700160C90 /* backjoon2609.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backjoon2609.swift; sourceTree = "<group>"; };
 		605F60352B99AC1D00160C90 /* backjoon11050.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backjoon11050.swift; sourceTree = "<group>"; };
 		605F60372B99B98200160C90 /* backjoon4153.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backjoon4153.swift; sourceTree = "<group>"; };
@@ -69,6 +70,7 @@
 				605F60332B9990C700160C90 /* backjoon2609.swift */,
 				604367A12B9ED01100682945 /* backjoon11650.swift */,
 				604367A32B9EDA7A00682945 /* backjoon10828.swift */,
+				604367A42B9EEA8600682945 /* backjoon1920.swift */,
 			);
 			path = BronzeSilver;
 			sourceTree = "<group>";

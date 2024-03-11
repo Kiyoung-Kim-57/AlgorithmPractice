@@ -38,4 +38,3 @@ import Foundation
 //print( numbers[0] == pow(numbers[1]) + pow(numbers[2]) ? "right" : "wrong"  )
 
 
-
